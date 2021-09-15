@@ -30,7 +30,7 @@ def get_any_data(database, sql_query):
     return pd.read_sql(sql_query, get_db_url(database))
 
 ################ train test split helper function ################
-def banana_split(df):
+def my_split(df):
     '''
     args: df
     This function take in the telco_churn data data acquired by aquire.py, get_telco_data(),
