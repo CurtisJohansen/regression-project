@@ -20,6 +20,20 @@
 
 ## Project Context
 - Used Zillow data from the CodeUp SQL database.
+
+260	Residential General
+261	Single Family Residential
+262	Rural Residence
+263	Mobile Home
+264	Townhouse
+265	Cluster Home
+268	Row House
+273	Bungalow
+274	Zero Lot Line
+275	Manufactured, Modular, Prefabricated Homes
+276	Patio Home
+279	Inferred Single Family Residential
+
 - Used two tables properties_2017 and predictions_2017  
 
 
